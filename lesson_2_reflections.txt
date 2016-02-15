@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Wh do you need to do it?
+
+Initializing a repository creates one in Git, meaning Git creates a space to track the files within that directory when you add them. You need to do it or there is no where to track the files you want to track. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where files are set apart to be part of a specific commit. The repository is where the files are all saved/stored. The working directory is where we are doing work and the files that have been changed. Its value is being able to pick just the files you want to be together in a specific commit that makes sense logically. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+
+When you have changes, you can add them put then review them in the staging area to see if there is more than one logical change. You can then remove the ones that don't work, commit, and then add the others and commit them so that there's one commit per logical change. 
