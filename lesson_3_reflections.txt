@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you lost or broke your computer than it'd be great to have the code stored elsewhere. Also, if you are in another location or on a different computer, you can grab the code and work on it from anywhere. 
