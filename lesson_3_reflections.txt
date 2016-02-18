@@ -5,3 +5,7 @@ If you lost or broke your computer than it'd be great to have the code stored el
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 The remote repository is public and there may be changes you’ve made that you don’t want people to download and seeing in your project as the changes may have temporarily made the code unworkable. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A clone makes a copy of an existing repository, whether it is a local repository or a Github repository. A fork is a clone of a github repository and automatically adds it to your Github repository. A branch is a creating a new commit that creates its own history. 
